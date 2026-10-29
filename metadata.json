@@ -1,0 +1,8 @@
+{
+  "name": "Remix FleetWise - Fleet \u0026 Delivery Management",
+  "description": "Conflict-free vehicle and driver assignment system with real-time dispatch validation, edge-case test suite, and operational logistics tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
